@@ -1,0 +1,10 @@
+game_id,play_id,player_to_predict,nfl_id,frame_id,play_direction,absolute_yardline_number,player_name,player_height,player_weight,player_birth_date,player_position,player_side,player_role,x,y,s,a,dir,o,num_frames_output,ball_land_x,ball_land_y
+2023091400,56,False,54583,1,left,85,Akayleb Evans,6-2,193,1999-06-22,CB,Defense,Defensive Coverage,78.78,13.43,0.24,0.25,105.26,64.25,10,81.8099975585938,36.7700004577637
+2023091400,56,False,54583,2,left,85,Akayleb Evans,6-2,193,1999-06-22,CB,Defense,Defensive Coverage,78.8,13.42,0.2,0.41,107.29,65.3,10,81.8099975585938,36.7700004577637
+2023091400,56,False,54583,3,left,85,Akayleb Evans,6-2,193,1999-06-22,CB,Defense,Defensive Coverage,78.82,13.41,0.14,0.53,106.83,64.31,10,81.8099975585938,36.7700004577637
+2023091400,56,False,54583,4,left,85,Akayleb Evans,6-2,193,1999-06-22,CB,Defense,Defensive Coverage,78.83,13.41,0.08,0.57,103.1,64.31,10,81.8099975585938,36.7700004577637
+2023091400,56,False,54583,5,left,85,Akayleb Evans,6-2,193,1999-06-22,CB,Defense,Defensive Coverage,78.83,13.4,0.07,0.53,162.75,67.19,10,81.8099975585938,36.7700004577637
+2023091400,56,False,54583,6,left,85,Akayleb Evans,6-2,193,1999-06-22,CB,Defense,Defensive Coverage,78.84,13.4,0.06,0.42,190.97,68.85,10,81.8099975585938,36.7700004577637
+2023091400,56,False,54583,7,left,85,Akayleb Evans,6-2,193,1999-06-22,CB,Defense,Defensive Coverage,78.83,13.39,0.11,0.36,200.54,72.0,10,81.8099975585938,36.7700004577637
+2023091400,56,False,54583,8,left,85,Akayleb Evans,6-2,193,1999-06-22,CB,Defense,Defensive Coverage,78.83,13.37,0.19,0.42,209.02,74.86,10,81.8099975585938,36.7700004577637
+2023091400,56,False,54583,9,left,85,Akayleb Evans,6-2,193,1999-06-22,CB,Defense,Defensive Coverage,78.81,13.35,0.28,0.5,223.82,74.86,10,81.8099975585938,36.7700004577637

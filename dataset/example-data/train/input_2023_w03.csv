@@ -1,0 +1,10 @@
+game_id,play_id,player_to_predict,nfl_id,frame_id,play_direction,absolute_yardline_number,player_name,player_height,player_weight,player_birth_date,player_position,player_side,player_role,x,y,s,a,dir,o,num_frames_output,ball_land_x,ball_land_y
+2023092100,78,False,44830,1,left,81,Adoree' Jackson,5-11,185,1995-09-18,CB,Defense,Defensive Coverage,72.41,34.76,0.01,0.01,317.57,118.64,9,77.1699981689453,18.5200004577637
+2023092100,78,False,44830,2,left,81,Adoree' Jackson,5-11,185,1995-09-18,CB,Defense,Defensive Coverage,72.41,34.77,0.01,0.01,325.23,120.59,9,77.1699981689453,18.5200004577637
+2023092100,78,False,44830,3,left,81,Adoree' Jackson,5-11,185,1995-09-18,CB,Defense,Defensive Coverage,72.41,34.77,0.01,0.01,327.08,120.59,9,77.1699981689453,18.5200004577637
+2023092100,78,False,44830,4,left,81,Adoree' Jackson,5-11,185,1995-09-18,CB,Defense,Defensive Coverage,72.4,34.79,0.01,0.01,327.82,121.64,9,77.1699981689453,18.5200004577637
+2023092100,78,False,44830,5,left,81,Adoree' Jackson,5-11,185,1995-09-18,CB,Defense,Defensive Coverage,72.4,34.79,0.01,0.01,326.23,121.64,9,77.1699981689453,18.5200004577637
+2023092100,78,False,44830,6,left,81,Adoree' Jackson,5-11,185,1995-09-18,CB,Defense,Defensive Coverage,72.4,34.81,0.01,0.01,334.79,121.64,9,77.1699981689453,18.5200004577637
+2023092100,78,False,44830,7,left,81,Adoree' Jackson,5-11,185,1995-09-18,CB,Defense,Defensive Coverage,72.4,34.84,0.01,0.01,341.5,121.64,9,77.1699981689453,18.5200004577637
+2023092100,78,False,44830,8,left,81,Adoree' Jackson,5-11,185,1995-09-18,CB,Defense,Defensive Coverage,72.41,34.87,0.05,0.85,2.55,123.94,9,77.1699981689453,18.5200004577637
+2023092100,78,False,44830,9,left,81,Adoree' Jackson,5-11,185,1995-09-18,CB,Defense,Defensive Coverage,72.41,34.9,0.27,2.36,9.01,122.26,9,77.1699981689453,18.5200004577637
